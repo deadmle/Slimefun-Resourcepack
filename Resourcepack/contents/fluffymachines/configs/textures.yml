@@ -25,3 +25,27 @@ items:
       generate: false
       model_id: 2201281
       model_path: "diamond_paxel"
+  upgraded_lumber_axe:
+    display_name: fluffymachines
+    permission: fluffymachines
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_id: 2201299
+      model_path: "upgraded_lumber_axe"
+  upgraded_explosive_pickaxe:
+    display_name: fluffymachines
+    permission: fluffymachines
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: false
+      model_id: 2201300
+      model_path: "upgraded_explosive_pickaxe"
+  upgraded_explosive_shovel:
+    display_name: fluffymachines
+    permission: fluffymachines
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: false
+      model_id: 2201280
+      model_path: "upgraded_explosive_shovel"
